@@ -10,7 +10,7 @@ body {
 
 /* This is to style the header with the associated links */
 
-.header {
+header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", "Arial", "sans-serif";
@@ -23,11 +23,11 @@ h1 {
   font-size: 48px;
 }
 
-.headerseo {
+header h1 .seo {
   color: #d9dcd6;
 }
 
-.headerdiv {
+header div {
   padding-top: 20px;
   margin-right: 20px;
   float: right;
@@ -35,7 +35,7 @@ h1 {
   font-size: 20px;
 }
 
-.headerli {
+header div ul li {
   display: inline-block;
   margin-left: 25px;
 }
