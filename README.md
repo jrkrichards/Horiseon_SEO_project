@@ -1,4 +1,4 @@
-# 01 HTML CSS Git: Code Refactor
+# Horiseon Webpage: Code Refactor
 
 ## About The Repository
 
